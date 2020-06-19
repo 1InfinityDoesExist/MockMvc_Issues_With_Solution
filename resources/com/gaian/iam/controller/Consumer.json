@@ -1,0 +1,22 @@
+{
+	"name": "avinash.patel",
+	"username": "avinash.patel",
+	"email": "pyushjaiswal369@gmail.com",
+	"password": "gaian",
+	"roles": [
+		"gaian.admin"
+	],
+	"parentTenant": "GAIAN",
+	"otp": 1245,
+	"mobileNumber": "9354125136",
+	"provider": "GMAIL",
+	"firstName": "Avinash",
+	"lastName": "Patel",
+	"login": "skip  this field",
+	"imageUrl": "http://localhost:8580/avinash.patel/pics",
+	"authorities": [
+		"manager",
+		"boss",
+		"project tech lead"
+	]
+}

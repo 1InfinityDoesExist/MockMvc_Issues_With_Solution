@@ -1,0 +1,6 @@
+{
+	"tenantId": "12345",
+	"clientId": "163623493187-1epeb3rt013cjjdf415acldol5o999jf.apps.googleusercontent.com",
+	"clientSecret": "3YrdHGTX1Ic-uyjf_0_FrkX7",
+	"redirectUrl": "http://qa.iam.gaiansolutions.com/12345/login/oauth2/code/google"
+}

@@ -1,0 +1,39 @@
+{
+	"tenant": {
+		"name": "Twitter12",
+		"description": "create tenant",
+		"version": "v1",
+		"url": "www.youtube.com1",
+		"username": "super_admin",
+		"organizationName": "KFC",
+		"registrationNumber": "0123456789",
+		"website": "www.kfc.in",
+		"address": {
+			"addressLine1": "Plot No, Suite 2, 3, 5, Amara Jyothi, 502B, Road Number 31, Jubilee Hills, Hyderabad, Telangana 500033",
+			"addressLine2": "JublieeHill, sector 25, Hydrabad, Telangana",
+			"postCode": "500033",
+			"country": "India",
+			"city": "Hyderabad",
+			"state": "Telangana",
+			"type": "permanent"
+		}
+	},
+	"businessUser": {
+		"name": "gaian.admin",
+		"username": "piyush.jaiswal420",
+		"email": "piyush@kanerika.com",
+		"password": "admin",
+		"roles": [
+			"OMNI_ADMIN"
+		],
+		"firstName": "Piyush",
+		"lastName": "Jaiswal",
+		"login": "facebook login",
+		"imageUrl": "www.myimage.com/mypic",
+		"authorities": [
+			"mac",
+			"uber",
+			"swiggy"
+		]
+	}
+}

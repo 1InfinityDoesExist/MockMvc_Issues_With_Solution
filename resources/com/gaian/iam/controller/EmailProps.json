@@ -1,0 +1,13 @@
+{
+	"host": "smtp.gmail.com",
+	"user": "test-adwize@gaiansolutions.com",
+	"email": "test-adwize@gaiansolutions.com",
+	"password": "Gaian#$Adwize",
+	"sslport": 587,
+	"port": 587,
+	"tenant": "GAIAN",
+	"application": "ALL",
+	"templateSubject": "Welcome Gaianers!",
+	"templateName": "OMNI_OTP_TEMPLATE",
+	"templateFormat": "Hi, Your OTP is :"
+}

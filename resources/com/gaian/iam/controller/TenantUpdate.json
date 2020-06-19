@@ -1,0 +1,21 @@
+{
+	"name": "Twitter12",
+	"description": "create tenant",
+	"version": "v1",
+	"url": "www.youtube.com12345",
+	"username": "super_admin",
+	"organizationName": "KFC",
+	"registrationNumber": "0123456789",
+	"website": "www.kfc.in.np",
+	"address": {
+		"addressLine1": "Kuliza Technologies, 11/3 Service Rd Mangammanapalya, Popular Colony, Bommanahalli, Bengaluru, Karnataka 560068",
+		"addressLine2": "JublieeHill, sector 25, Hydrabad, Telangana",
+		"postCode": "500033",
+		"country": "India",
+		"city": "Hyderabad",
+		"state": "Telangana",
+		"type": "permanent***********************************************************"
+	},
+	"createdBy": "KFC",
+	"updatedBy": "KFC"
+}
